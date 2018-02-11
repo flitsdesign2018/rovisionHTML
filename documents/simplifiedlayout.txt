@@ -1,0 +1,23 @@
+header
+logo left
+ul menu right
+search button
+
+main post
+image background, text foreground
+text
+
+post 2
+image right
+text left, button read more
+
+3 column posts
+image top
+text button read more bottom
+
+footer align centre
+footer menu, search box
+text address left 
+mail info right
+copyright text 
+
